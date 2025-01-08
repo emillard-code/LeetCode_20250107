@@ -1,7 +1,6 @@
-package com.project.LeetCodeSolution;
+package com.project.solution;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 public class LeetCodeSolution {
